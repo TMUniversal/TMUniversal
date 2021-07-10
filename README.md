@@ -4,28 +4,31 @@ Hi! I'm TMUniversal, a developer from Germany.
 
 I mostly create stuff for and/or around Discord in JavaScript or TypeScript. I also enjoy experimenting and building small projects.
 
+![Discord](https://discord.c99.nl/widget/theme-2/237993001828352001.png)
 
-
-__What i am currently learning/working on__
+__What I am currently learning/working on__
    - Developing and maintaining __[discord-bot-template]__, an open-source template for Discord bots in TypeScript.
    - Working on some other bots, like __[Emoji Stealer]__.
    - Becoming more confident in TypeScript.
    - Making a __[website]__ with [Nuxt.js].
+   - Trying to get into Kubernetes.
 
 <details>
   <summary>Some more about me</summary>
   <br>
   <p><i>I am open for discord bot commissions</i><p>
 
-  - Recently got approved for GitHub Sponsors ❤.
+  - Approved for GitHub Sponsors ❤.
   - You can consult me on anything about Discord.
 
-  ![My github stats](https://github-readme-stats.vercel.app/api?username=tmuniversal&show_icons=true)
+  <a href="https://discord.com/users/237993001828352001" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=tmuniversal&show_icons=true" alt="TMUniversal on Discord"></a>
 </details>
 
 <hr>
 <p align="center">
-  <i>Let's chat! I'm always happy to help.</i>
+  <p align="center"><i>Let's chat! I'm always happy to help.</i></p>
+
+  <p align="center">Updated 2021-07-10</p>
 
   <p align="center">
     <a href="https://github.com/sponsors/TMUniversal" alt="GitHub Sponsors"><img src="https://raw.githubusercontent.com/TMUniversal/TMUniversal/master/images/heart.svg" width="24px"></a>
