@@ -4,7 +4,7 @@ Hi! I'm TMUniversal, a developer from Germany.
 
 I mostly create stuff for and/or around Discord in JavaScript or TypeScript. I also enjoy experimenting and building small projects.
 
-![Discord](https://discord.c99.nl/widget/theme-2/237993001828352001.png)
+<a href="https://discord.com/users/237993001828352001" target="_blank"><img src="https://discord.c99.nl/widget/theme-2/237993001828352001.png" alt="TMUniversal on Discord" /></a>
 
 __What I am currently learning/working on__
    - Developing and maintaining __[discord-bot-template]__, an open-source template for Discord bots in TypeScript.
@@ -21,7 +21,16 @@ __What I am currently learning/working on__
   - Approved for GitHub Sponsors ❤.
   - You can consult me on anything about Discord.
 
-  <a href="https://discord.com/users/237993001828352001" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=tmuniversal&show_icons=true" alt="TMUniversal on Discord"></a>
+  <table>
+    <tr>
+      <td align="center" style="padding=0;width=50%;">
+        <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=TMUniversal&show_icons=true&hide_border=true&hide_title=true&count_private=false&theme=vue-dark" />
+      </td>
+      <td align="center" style="padding=0;width=50%;">
+        <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TMUniversal&layout=compact&hide_border=true&hide=visual%20basic&count_private=false&theme=vue-dark" />
+      </td>
+    </tr>
+  </table>
 </details>
 
 <hr>
