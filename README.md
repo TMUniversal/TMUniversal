@@ -15,10 +15,7 @@ __What I am currently learning/working on__
 
 <details>
   <summary>Some more about me</summary>
-  <br>
-  <p><i>I am open for discord bot commissions</i><p>
 
-  - Approved for GitHub Sponsors ❤.
   - You can consult me on anything about Discord.
 
   <table>
