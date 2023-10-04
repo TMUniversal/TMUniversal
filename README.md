@@ -4,8 +4,6 @@ Hi! I'm TMUniversal, a developer from Germany.
 
 I mostly create stuff for and/or around Discord in JavaScript or TypeScript. I also enjoy experimenting and building small projects.
 
-<a href="https://discord.com/users/237993001828352001" target="_blank"><img src="https://discord.c99.nl/widget/theme-2/237993001828352001.png" alt="TMUniversal on Discord" /></a>
-
 __What I am currently learning/working on__
    - Developing and maintaining __[discord-bot-template]__, an open-source template for Discord bots in TypeScript.
    - Working on some other bots, like __[Emoji Stealer]__.
