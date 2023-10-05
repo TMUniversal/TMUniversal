@@ -1,20 +1,20 @@
 <img src="https://raw.githubusercontent.com/TMUniversal/TMUniversal/master/images/hero.svg" alt="Hero Image" width="100%"/>
 
-Hi! I'm TMUniversal, a developer from Germany.
+### Hi there 👋
 
-I mostly create stuff for and/or around Discord in JavaScript or TypeScript. I also enjoy experimenting and building small projects.
+I'm [TMUniversal], a developer from Germany.
+
+I mostly create stuff for and/or around Discord in TypeScript.
+I also enjoy experimenting and building small projects,
+DevOps and Kubernetes.
 
 __What I am currently learning/working on__
-   - Developing and maintaining __[discord-bot-template]__, an open-source template for Discord bots in TypeScript.
-   - Working on some other bots, like __[Emoji Stealer]__.
-   - Becoming more confident in TypeScript.
-   - Making a __[website]__ with [Nuxt.js].
-   - Trying to get into Kubernetes.
+  - Developing a private Discord Bot in [Go].
+  - Abandoning TypeScript for [Go].
+  - Making a [website] with [Nuxt.js].
 
 <details>
-  <summary>Some more about me</summary>
-
-  - You can consult me on anything about Discord.
+  <summary>Some stats</summary>
 
   <table>
     <tr>
@@ -28,15 +28,37 @@ __What I am currently learning/working on__
   </table>
 </details>
 
+#### 👨‍💻 Repositories I created recently
+- **[TMUniversal/winget-pkgs](https://github.com/TMUniversal/winget-pkgs)**
+- **[TMUniversal/scoop-bucket](https://github.com/TMUniversal/scoop-bucket)**
+- **[TMUniversal/homebrew-tap](https://github.com/TMUniversal/homebrew-tap)**
+- **[TMUniversal/remnant2-vortex-support](https://github.com/TMUniversal/remnant2-vortex-support)**
+- **[TMUniversal/papercrypt](https://github.com/TMUniversal/papercrypt)** - PaperCrypt is a Go-based command-line tool designed to enhance the security of your sensitive data through the generation of printable backup documents.
+
+<!-- #### ❤️ Recent Sponsors
+
+Many thanks everyone! 🙏 -->
+
+#### ⛏️ What I've been working on
+
+- [TMUniversal/papercrypt](https://github.com/TMUniversal/papercrypt)
+- [TMUniversal/vscode-extension-recommended](https://github.com/TMUniversal/vscode-extension-recommended)
+- [TMUniversal/winget-pkgs](https://github.com/TMUniversal/winget-pkgs)
+- [TMUniversal/scoop-bucket](https://github.com/TMUniversal/scoop-bucket)
+- [TMUniversal/homebrew-tap](https://github.com/TMUniversal/homebrew-tap)
+
+#### 📄 Latest blog posts
+- [YouTube Download with ytdl-sub](https://blog.tmuniversal.eu/posts/youtube-download-with-ytdl-sub/) (3 months ago)
+- [Test Article](https://blog.tmuniversal.eu/posts/test-article/) (1 year ago)
+
 <hr>
 <p align="center">
   <p align="center"><i>Let's chat! I'm always happy to help.</i></p>
 
-  <p align="center">Updated 2021-07-10</p>
+  <!-- <p align="center">Updated <no value></p> -->
 
   <p align="center">
     <a href="https://github.com/sponsors/TMUniversal" alt="GitHub Sponsors"><img src="https://raw.githubusercontent.com/TMUniversal/TMUniversal/master/images/heart.svg" width="24px"></a>
-    <a href="https://www.patreon.com/tmuni" alt="Patreon"><img src="https://raw.githubusercontent.com/TMUniversal/TMUniversal/master/images/patreon.svg" width="24px" style=""></a>
     <a href="mailto:me@tmuniversal.eu" alt="Contact me"><img src="https://raw.githubusercontent.com/TMUniversal/TMUniversal/master/images/envelope.svg" width="24px"></a>
     <a href="https://tmuniversal.eu" alt="My website"><img src="https://raw.githubusercontent.com/TMUniversal/TMUniversal/master/images/box-arrow-up-right.svg" width="24px"></a>
   </p>
@@ -49,7 +71,7 @@ __What I am currently learning/working on__
 <img src="https://raw.githubusercontent.com/TMUniversal/TMUniversal/master/images/bottom.svg" alt="Hero Image" width="100%"/>
 
 
-[discord-bot-template]: https://github.com/TMUniversal/discord-bot-template
-[Emoji Stealer]: https://github.com/TMUniversal/Emoji-Stealer
-[website]: https://tmuniversal.eu
+[TMUniversal]: https://tmuniversal.eu?utm_source=github_profile&utm_medium=link&utm_campaign=github_profile_link
+[website]: https://tmuniversal.eu?utm_source=github_profile&utm_medium=link&utm_campaign=github_profile_link
 [Nuxt.js]: https://nuxtjs.org/
+[Go]: https://go.dev/
