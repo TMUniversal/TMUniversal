@@ -35,17 +35,15 @@ __What I am currently learning/working on__
 - **[TMUniversal/remnant2-vortex-support](https://github.com/TMUniversal/remnant2-vortex-support)**
 - **[TMUniversal/papercrypt](https://github.com/TMUniversal/papercrypt)** - PaperCrypt is a Go-based command-line tool designed to enhance the security of your sensitive data through the generation of printable backup documents.
 
-<!-- #### ❤️ Recent Sponsors
 
-Many thanks everyone! 🙏 -->
 
 #### ⛏️ What I've been working on
 
 - [TMUniversal/papercrypt](https://github.com/TMUniversal/papercrypt)
 - [TMUniversal/vscode-extension-recommended](https://github.com/TMUniversal/vscode-extension-recommended)
+- [TMUniversal/homebrew-tap](https://github.com/TMUniversal/homebrew-tap)
 - [TMUniversal/winget-pkgs](https://github.com/TMUniversal/winget-pkgs)
 - [TMUniversal/scoop-bucket](https://github.com/TMUniversal/scoop-bucket)
-- [TMUniversal/homebrew-tap](https://github.com/TMUniversal/homebrew-tap)
 
 #### 📄 Latest blog posts
 - [YouTube Download with ytdl-sub](https://blog.tmuniversal.eu/posts/youtube-download-with-ytdl-sub/) (3 months ago)
@@ -55,7 +53,7 @@ Many thanks everyone! 🙏 -->
 <p align="center">
   <p align="center"><i>Let's chat! I'm always happy to help.</i></p>
 
-  <!-- <p align="center">Updated <no value></p> -->
+  
 
   <p align="center">
     <a href="https://github.com/sponsors/TMUniversal" alt="GitHub Sponsors"><img src="https://raw.githubusercontent.com/TMUniversal/TMUniversal/master/images/heart.svg" width="24px"></a>
