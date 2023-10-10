@@ -32,16 +32,16 @@ __What I am currently learning/working on__
 - **[TMUniversal/winget-pkgs](https://github.com/TMUniversal/winget-pkgs)**
 - **[TMUniversal/scoop-bucket](https://github.com/TMUniversal/scoop-bucket)**
 - **[TMUniversal/homebrew-tap](https://github.com/TMUniversal/homebrew-tap)**
-- **[TMUniversal/remnant2-vortex-support](https://github.com/TMUniversal/remnant2-vortex-support)**
+- **[TMUniversal/remnant2-vortex-support](https://github.com/TMUniversal/remnant2-vortex-support)** - This is an extension for the Vortex mod manager that adds support for Remnant II mods.
 - **[TMUniversal/papercrypt](https://github.com/TMUniversal/papercrypt)** - PaperCrypt is a Go-based command-line tool designed to enhance the security of your sensitive data through the generation of printable backup documents.
 
 
 
 #### ⛏️ What I've been working on
 
+- [TMUniversal/remnant2-vortex-support](https://github.com/TMUniversal/remnant2-vortex-support)
 - [TMUniversal/papercrypt](https://github.com/TMUniversal/papercrypt)
 - [TMUniversal/vscode-extension-recommended](https://github.com/TMUniversal/vscode-extension-recommended)
-- [TMUniversal/homebrew-tap](https://github.com/TMUniversal/homebrew-tap)
 - [TMUniversal/winget-pkgs](https://github.com/TMUniversal/winget-pkgs)
 - [TMUniversal/scoop-bucket](https://github.com/TMUniversal/scoop-bucket)
 
