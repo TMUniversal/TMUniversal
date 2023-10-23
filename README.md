@@ -29,21 +29,21 @@ __What I am currently learning/working on__
 </details>
 
 #### 👨‍💻 Repositories I created recently
-- **[TMUniversal/winget-pkgs](https://github.com/TMUniversal/winget-pkgs)**
 - **[TMUniversal/scoop-bucket](https://github.com/TMUniversal/scoop-bucket)**
 - **[TMUniversal/homebrew-tap](https://github.com/TMUniversal/homebrew-tap)**
 - **[TMUniversal/remnant2-vortex-support](https://github.com/TMUniversal/remnant2-vortex-support)** - This is an extension for the Vortex mod manager that adds support for Remnant II mods.
 - **[TMUniversal/papercrypt](https://github.com/TMUniversal/papercrypt)** - PaperCrypt is a Go-based command-line tool designed to enhance the security of your sensitive data through the generation of printable backup documents.
+- **[TMUniversal/leetcode-problems](https://github.com/TMUniversal/leetcode-problems)** - A repository of my solutions to some leetcode coding problems
 
 
 
 #### ⛏️ What I've been working on
 
-- [TMUniversal/remnant2-vortex-support](https://github.com/TMUniversal/remnant2-vortex-support)
 - [TMUniversal/papercrypt](https://github.com/TMUniversal/papercrypt)
-- [TMUniversal/vscode-extension-recommended](https://github.com/TMUniversal/vscode-extension-recommended)
-- [TMUniversal/winget-pkgs](https://github.com/TMUniversal/winget-pkgs)
+- [TMUniversal/remnant2-vortex-support](https://github.com/TMUniversal/remnant2-vortex-support)
 - [TMUniversal/scoop-bucket](https://github.com/TMUniversal/scoop-bucket)
+- [TMUniversal/homebrew-tap](https://github.com/TMUniversal/homebrew-tap)
+- [TMUniversal/vscode-extension-recommended](https://github.com/TMUniversal/vscode-extension-recommended)
 
 #### 📄 Latest blog posts
 - [YouTube Download with ytdl-sub](https://blog.tmuniversal.eu/posts/youtube-download-with-ytdl-sub/) (3 months ago)
