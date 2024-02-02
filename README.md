@@ -46,7 +46,7 @@ __What I am currently learning/working on__
 - [TMUniversal/vscode-extension-recommended](https://github.com/TMUniversal/vscode-extension-recommended)
 
 #### 📄 Latest blog posts
-- [YouTube Download with ytdl-sub](https://blog.tmuniversal.eu/posts/youtube-download-with-ytdl-sub/) (6 months ago)
+- [YouTube Download with ytdl-sub](https://blog.tmuniversal.eu/posts/youtube-download-with-ytdl-sub/) (7 months ago)
 - [Test Article](https://blog.tmuniversal.eu/posts/test-article/) (2 years ago)
 
 <hr>
