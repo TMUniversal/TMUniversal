@@ -40,13 +40,13 @@ __What I am currently learning/working on__
 #### ⛏️ What I've been working on
 
 - [TMUniversal/papercrypt](https://github.com/TMUniversal/papercrypt)
-- [TMUniversal/homebrew-tap](https://github.com/TMUniversal/homebrew-tap)
 - [TMUniversal/scoop-bucket](https://github.com/TMUniversal/scoop-bucket)
+- [TMUniversal/homebrew-tap](https://github.com/TMUniversal/homebrew-tap)
 - [TMUniversal/remnant2-vortex-support](https://github.com/TMUniversal/remnant2-vortex-support)
 - [TMUniversal/vscode-extension-recommended](https://github.com/TMUniversal/vscode-extension-recommended)
 
 #### 📄 Latest blog posts
-- [YouTube Download with ytdl-sub](https://blog.tmuniversal.eu/posts/youtube-download-with-ytdl-sub/) (7 months ago)
+- [YouTube Download with ytdl-sub](https://blog.tmuniversal.eu/posts/youtube-download-with-ytdl-sub/) (8 months ago)
 - [Test Article](https://blog.tmuniversal.eu/posts/test-article/) (2 years ago)
 
 <hr>
