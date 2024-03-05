@@ -49,7 +49,7 @@ Many thanks everyone! 🙏 -->
 
 #### 📄 Latest blog posts
 
-{{- range rss "https://blog.tmuniversal.eu/posts/index.xml" 3 }}
+{{- range rss "https://blog.tmuniversal.eu/en/posts/index.xml" 3 }}
 - [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
 {{- end }}
 
