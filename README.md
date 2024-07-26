@@ -39,10 +39,10 @@ __What I am currently learning/working on__
 
 #### ⛏️ What I've been working on
 
-- [TMUniversal/remnant2-vortex-support](https://github.com/TMUniversal/remnant2-vortex-support)
 - [TMUniversal/papercrypt](https://github.com/TMUniversal/papercrypt)
 - [TMUniversal/homebrew-tap](https://github.com/TMUniversal/homebrew-tap)
 - [TMUniversal/scoop-bucket](https://github.com/TMUniversal/scoop-bucket)
+- [TMUniversal/remnant2-vortex-support](https://github.com/TMUniversal/remnant2-vortex-support)
 - [TMUniversal/vscode-extension-recommended](https://github.com/TMUniversal/vscode-extension-recommended)
 
 #### 📄 Latest blog posts
