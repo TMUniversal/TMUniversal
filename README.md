@@ -41,8 +41,8 @@ __What I am currently learning/working on__
 
 - [ShokoAnime/ShokoDesktop](https://github.com/ShokoAnime/ShokoDesktop)
 - [TMUniversal/papercrypt](https://github.com/TMUniversal/papercrypt)
-- [TMUniversal/homebrew-tap](https://github.com/TMUniversal/homebrew-tap)
 - [TMUniversal/scoop-bucket](https://github.com/TMUniversal/scoop-bucket)
+- [TMUniversal/homebrew-tap](https://github.com/TMUniversal/homebrew-tap)
 - [TMUniversal/remnant2-vortex-support](https://github.com/TMUniversal/remnant2-vortex-support)
 
 #### 📄 Latest blog posts
