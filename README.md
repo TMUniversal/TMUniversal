@@ -46,7 +46,7 @@ __What I am currently learning/working on__
 - [TMUniversal/homebrew-tap](https://github.com/TMUniversal/homebrew-tap)
 
 #### 📄 Latest blog posts
-- [YouTube Download with ytdl-sub](https://blog.tmuniversal.eu/en/posts/youtube-download-with-ytdl-sub/) (1 year ago)
+- [YouTube Download with ytdl-sub](https://blog.tmuniversal.eu/en/posts/youtube-download-with-ytdl-sub/) (2 years ago)
 - [Test Article](https://blog.tmuniversal.eu/en/posts/test-article/) (2 years ago)
 
 <hr>
