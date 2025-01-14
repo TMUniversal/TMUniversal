@@ -42,8 +42,8 @@ __What I am currently learning/working on__
 - [TMUniversal/remnant2-vortex-support](https://github.com/TMUniversal/remnant2-vortex-support)
 - [ShokoAnime/ShokoDesktop](https://github.com/ShokoAnime/ShokoDesktop)
 - [TMUniversal/papercrypt](https://github.com/TMUniversal/papercrypt)
-- [TMUniversal/homebrew-tap](https://github.com/TMUniversal/homebrew-tap)
 - [TMUniversal/scoop-bucket](https://github.com/TMUniversal/scoop-bucket)
+- [TMUniversal/homebrew-tap](https://github.com/TMUniversal/homebrew-tap)
 
 #### 📄 Latest blog posts
 - [YouTube Download with ytdl-sub](https://blog.tmuniversal.eu/en/posts/youtube-download-with-ytdl-sub/) (2 years ago)
